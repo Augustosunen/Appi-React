@@ -1,0 +1,33 @@
+.App{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: blue;
+  background-color: rgb(60, 152, 60);
+  
+}
+
+html,body{
+  
+  box-sizing: border-box;
+  
+}
+
+.Bienvenido{
+  text-align: center;
+  color: rgb(45, 30, 214);
+  font-size: 80px;
+  font-style: italic;
+  font-weight: 800;
+
+}
+
+.Personaje{
+  text-align: center;
+  color: rgb(45, 30, 214);
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 800;
+}
+
+
